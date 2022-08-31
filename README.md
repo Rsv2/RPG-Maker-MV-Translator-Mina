@@ -1,6 +1,6 @@
 # RPG Maker MV Translator "Mina"
 
-[Скриншот](https://pair.casualmods.net/images/Безымянный-5.png)
+![Скриншот](https://pair.casualmods.net/images/Безымянный-5.png)
 
 Описание восстановить можно, но не вижу смысла. Программа давно устарела и на всех сайтах где её публиковал заменена более новой, [сделанной в WPF](https://github.com/Rsv2/RPG-MV-Translator/releases/tag/RPG-MV-Translator).
 
